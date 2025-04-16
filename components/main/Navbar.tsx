@@ -38,13 +38,13 @@ const Navbar = () => {
 
         {/* Social Links */}
         <div className="flex flex-row gap-5">
-          <Link href="https://x.com/hey_itsyashika">
+          <Link href="https://x.com/sakshambhugra">
             <FaTwitter color="white" />
           </Link>
-          <Link href="mailto:mehndirattayashika5@gmail.com">
+          <Link href="mailto:sakshambhugra8@gmail.com">
             <MdEmail color="white" />
           </Link>
-          <Link href="https://github.com/y4sh1k4">
+          <Link href="https://github.com/sh4d0wy">
             <FaGithub color="white" />
           </Link>
         </div>
