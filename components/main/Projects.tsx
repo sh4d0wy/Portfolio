@@ -21,11 +21,11 @@ const Projects = () => {
         "MemeIndex is a Telegram Mini App (TMA) that allows users to discover, track, and interact with Meme Tokens on the TON blockchain.",
     },
     {
-      href: "https://monodrome2.vercel.app/",
-      src: "/megadrome.png",
-      title: "Megadrome",
+      href: "https://forti-fi-six.vercel.app/",
+      src: "/fortifi-1.png",
+      title: "FortiFi",
       description:
-        "Megadrome Finance is a next-generation AMM that combines the best of Curve, Convex, and Uniswap, designed to serve as Optimism's central liquidity hub.",
+        "FortiFi is the Decentralized Insurance Protocol on the Educhain blockchain allowing users to buy insurance for their assets.", 
     },
   ];
 
